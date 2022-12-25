@@ -1,0 +1,8 @@
+test
+CLEAN
+^#include
+clean
+^void
+er
+123
+s21
